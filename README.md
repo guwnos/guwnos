@@ -21,4 +21,4 @@ Narzędzia / Tools
 
 
 ## Moja Historia / My History
-###### Programować zacząłem 4/5 lat temu, kiedy miałem z 9 lat lub 8 odkryłem Clickteam Fusion (silnik do robienia gier). Dopiero w 2020 uczyłem się python później C# a następnie C++ / I started programming 4/5 years ago, when I was 9 or 8, I discovered Clickteam Fusion (game engine). It wasn't until 2020 that I learned python, then C # and then C ++
+###### Programować zacząłem 3/4 lat temu, kiedy miałem z 9 lat lub 8 odkryłem Clickteam Fusion (silnik do robienia gier). Dopiero w 2020 uczyłem się python później C# a następnie C++ / I started programming 3/4 years ago, when I was 9 or 8, I discovered Clickteam Fusion (game engine). It wasn't until 2020 that I learned python, then C # and then C ++
