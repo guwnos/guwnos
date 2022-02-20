@@ -12,7 +12,7 @@ Inne Języki / Other Languages
 Narzędzia / Tools
 
 
-![Nowy projekt (3)](https://user-images.githubusercontent.com/62306123/148423640-6cd393b4-a7f9-4623-a191-1ae414b9cea9.png)      ![Nowy projekt (4)](https://user-images.githubusercontent.com/62306123/148423657-61b5cb84-01c2-43a2-81cf-e330635937da.png)      ![Nowy projekt (6)](https://user-images.githubusercontent.com/62306123/148423697-4fbd9814-6339-4fb9-8b43-841393360e08.png)
+![Nowy projekt (3)](https://user-images.githubusercontent.com/62306123/148423640-6cd393b4-a7f9-4623-a191-1ae414b9cea9.png)      ![Nowy projekt (4)](https://user-images.githubusercontent.com/62306123/148423657-61b5cb84-01c2-43a2-81cf-e330635937da.png)      
 
 
 ## Moja Historia / My History
