@@ -8,7 +8,7 @@ Inne Języki / Other Languages
 
 - C/C++
 - HTML/CSS
-- F#
+- Lua
 
 Narzędzia / Tools
 
