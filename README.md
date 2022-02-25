@@ -6,7 +6,7 @@ Języki Które Uwielbiam / Languages I love
 Inne Języki / Other Languages
 
 
-- C/C++
+- C++
 - HTML/CSS
 - Lua
 
