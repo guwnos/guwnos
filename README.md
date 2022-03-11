@@ -7,7 +7,6 @@ Inne Języki / Other Languages
 
 
 - C++
-- HTML/CSS
 - Lua
 
 Narzędzia / Tools
