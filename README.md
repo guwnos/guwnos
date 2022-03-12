@@ -1,11 +1,11 @@
 Języki Które Uwielbiam / Languages I love
 - Python
-- C#
 
 
 Inne Języki / Other Languages
 
 
+- C#
 - C++
 - Lua
 
