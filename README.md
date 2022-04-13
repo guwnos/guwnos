@@ -9,7 +9,7 @@ Inne Języki / Other Languages
 - C
 - Lua
 
-Aktualnie Uczę Się
+Aktualnie Uczę Się / I'm currently learning
 - C++
 
 Narzędzia / Tools
