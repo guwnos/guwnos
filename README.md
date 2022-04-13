@@ -6,8 +6,11 @@ Inne Języki / Other Languages
 
 
 - C#
-- C++
+- C
 - Lua
+
+Aktualnie Uczę Się
+- C++
 
 Narzędzia / Tools
 
