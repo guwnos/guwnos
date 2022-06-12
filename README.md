@@ -6,11 +6,13 @@ Inne Języki / Other Languages
 
 
 - C#
+- C++
 - C
+- HTML/CSS/JavaScript/PHP
 - Lua
 
 Aktualnie Uczę Się / I'm currently learning
-- C++
+- Nothing now
 
 Narzędzia / Tools
 
