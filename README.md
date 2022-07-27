@@ -12,7 +12,7 @@ Inne Języki / Other Languages
 - Lua
 
 Aktualnie Uczę Się / I'm currently learning
-- NodeJS
+- Nothing
 
 Narzędzia / Tools
 
