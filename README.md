@@ -1,14 +1,14 @@
-Języki Które Uwielbiam / Languages I love
-- Python
+Języki Które Używam / Languages Which i use
+- C#
+
 
 
 Inne Języki / Other Languages
 
-
+- Python
 - C#
 - C++
 - C
-- HTML/CSS/JavaScript/PHP
 - Lua
 
 Aktualnie Uczę Się / I'm currently learning
